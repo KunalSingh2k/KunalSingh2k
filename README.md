@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KunalSingh2k
 - 👀 I’m interested in iOS development
-- 🌱 I’m currently learning both swift and swiftUI.
+- 🌱 I’m currently learning both UIKit and swiftUI.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - kunalrampukar@gmail.com
 - 😄 Pronouns: he/him
