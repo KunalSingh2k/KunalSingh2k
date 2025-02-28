@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @KunalSingh2k
-- 👀 I’m interested in iOS development
-- 🌱 I’m currently learning both UIKit and swiftUI.
-- 💞️ I’m looking to collaborate on ...
+- 👀 iOS Developer proficient in UIKit| SwiftUI| CocoaPods| Device Integration
+- 💞️ Linkedin: www.linkedin.com/in/kunal-kumar-r-5b1534243
 - 📫 How to reach me - kunalrampukar@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: 
