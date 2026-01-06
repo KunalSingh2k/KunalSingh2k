@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KunalSingh2k
-- 👀 iOS Developer proficient in UIKit| SwiftUI| CocoaPods| Device Integration
+- 👀 iOS Developer proficient in UIKit| SwiftUI| KMM| Objective-C| BLE Integrations| REST & GraphQL
 - 💞️ Linkedin: www.linkedin.com/in/kunal-kumar-r-5b1534243
 - 📫 How to reach me - kunalrampukar@gmail.com
 - 😄 Pronouns: he/him
